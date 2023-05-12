@@ -1,1 +1,2 @@
-# rickhqh.github.io
+# Jump
+域名跳转，防止被拦截
